@@ -5,7 +5,7 @@
 .two {
     background-color: #ffee00;
 }
-.text-adjust {
+.one,.two {
     font-family: helvetica, "times new roman", sans-serif;
     font-size: 28px;
 }
