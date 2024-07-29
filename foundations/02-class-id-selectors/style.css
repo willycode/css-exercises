@@ -1,0 +1,11 @@
+.odd {
+    font-family: Verdana, DejaVu sans, sans-seif ;
+    background-color: rgb(255, 122, 122);
+}
+#one {
+    font-size: 36px;
+    color: rgb(0, 0, 255)
+}
+.oddsecond {
+    font-size: 24px;
+}
