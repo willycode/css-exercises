@@ -1,5 +1,5 @@
 .odd {
-    font-family: Verdana, DejaVu sans, sans-seif ;
+    font-family: Verdana, DejaVu-sans, sans-serif ;
     background-color: rgb(255, 122, 122);
 }
 #one {
@@ -8,4 +8,9 @@
 }
 .oddsecond {
     font-size: 24px;
+}
+#two {
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold;
 }
